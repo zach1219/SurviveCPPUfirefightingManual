@@ -11,7 +11,9 @@
 
 手册争取做到被无数交大学子传阅，更新内容请参见项目Github repo的README文件，编委欢迎读者提出issue与pull request我们讨论并协助优化本手册内容。希望我们能将这份对新生的关怀不断传递下去。
 
-在以下网站上，我们将会提供本书最新电子版下载： [http://sites.google.com/site/survivesjtu/](http://sites.google.com/site/survivesjtu/) 
+欢迎读者提出issue与pull request我们讨论并协助优化本手册内容。
+
+您目前仅能通过此页面访问本文的内容。
 
                                                                                                                                                   本书编委会
 ```
